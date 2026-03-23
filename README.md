@@ -10,10 +10,10 @@
 
 ## 🧠 Sobre mim
 
-- 💻 Desenvolvedor **Fullstack**
-- 🏗️ Trabalho com arquitetura **MVC aplicada a sistemas web**
-- 🐘 Foco principal em **PHP**
-- ⚡ Buscando estudo e evolução constante em performance e boas práticas
+- Desenvolvedor **Fullstack**
+- Trabalho com arquitetura **MVC aplicada a sistemas web**
+- Foco principal em **PHP**
+- Buscando estudo e evolução constante em performance e boas práticas
 
 ---
 
@@ -25,31 +25,23 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThorFilhodeOdin&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorFilhodeOdin&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🧩 Especialidades
 
-- 🏗️ Estruturação de sistemas em **MVC puro**
-- 🔐 Validação, segurança e tratamento de dados
-- ⚡ Otimização de performance backend
-- 🌐 Integração com APIs
-- 🗄️ Modelagem de banco de dados
+- Estruturação de sistemas em **MVC puro**
+- Validação, segurança e tratamento de dados
+- Otimização de performance backend
+- Integração com APIs
+- Modelagem de banco de dados
 
 ---
 
 ## 🚀 Projetos e foco atual
 
-- 📦 Sistemas web sob medida
-- 🧾 Sistemas de orçamento / clientes
-- 🔐 Autenticação e validação robusta
-- ⚙️ Backend bem estruturado e escalável
+- Sistemas web sob medida
+- Sistemas de orçamento / clientes
+- Autenticação e validação robusta
+- Backend bem estruturado e escalável
 
 ---
 
