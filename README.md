@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou Rodrigo (ThorFilhodeOdin)</h1>
+<h1 align="center">Opa, eu sou Rodrigo (ThorFilhodeOdin)</h1>
 
 <p align="center">
-💼 Fundador de empresa de desenvolvimento <br>
+💼 Fundador de empresa de desenvolvimento de sistemas web e sites institucionais<br>
 🧠 Desenvolvedor Fullstack (PHP • MVC • Web) <br>
 🚀 Focado em sistemas escaláveis e bem estruturados
 </p>
@@ -13,8 +13,7 @@
 - 💻 Desenvolvedor **Fullstack**
 - 🏗️ Trabalho com arquitetura **MVC aplicada a sistemas web**
 - 🐘 Foco principal em **PHP**
-- 🚀 Tenho uma empresa de desenvolvimento de software
-- ⚡ Buscando evolução constante em performance e boas práticas
+- ⚡ Buscando estudo e evolução constante em performance e boas práticas
 
 ---
 
