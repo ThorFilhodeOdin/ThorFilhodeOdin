@@ -1,11 +1,32 @@
+<h1 align="center">👋 Olá, eu sou Rodrigo (ThorFilhodeOdin)</h1>
 
 <p align="center">
-Desenvolvedor PHP no padrão mvc
+💼 Fundador de empresa de desenvolvimento <br>
+🧠 Desenvolvedor Fullstack (PHP • MVC • Web) <br>
+🚀 Focado em sistemas escaláveis e bem estruturados
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Sobre mim
+
+- 💻 Desenvolvedor **Fullstack**
+- 🏗️ Trabalho com arquitetura **MVC aplicada a sistemas web**
+- 🐘 Foco principal em **PHP**
+- 🚀 Tenho uma empresa de desenvolvimento de software
+- ⚡ Buscando evolução constante em performance e boas práticas
+
+---
+
+## ⚙️ Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,git,mysql" />
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThorFilhodeOdin&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -14,27 +35,22 @@ Desenvolvedor PHP no padrão mvc
 
 ---
 
-## 🔥 Streak
+## 🧩 Especialidades
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThorFilhodeOdin&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,git,github"/>
-</p>
+- 🏗️ Estruturação de sistemas em **MVC puro**
+- 🔐 Validação, segurança e tratamento de dados
+- ⚡ Otimização de performance backend
+- 🌐 Integração com APIs
+- 🗄️ Modelagem de banco de dados
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Projetos e foco atual
 
-- 🔭 Atualmente trabalhando em projetos próprios  
-- 🌱 Estudando mais sobre backend e arquitetura  
-- ⚡ Focado em evoluir como dev  
+- 📦 Sistemas web sob medida
+- 🧾 Sistemas de orçamento / clientes
+- 🔐 Autenticação e validação robusta
+- ⚙️ Backend bem estruturado e escalável
 
 ---
 
