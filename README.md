@@ -54,6 +54,7 @@
 ---
 
 ## 📫 Contato
+zap : 44 9 9976-4566
 
 <p align="center">
   <a href="https://github.com/ThorFilhodeOdin">
