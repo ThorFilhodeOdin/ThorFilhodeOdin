@@ -1,4 +1,4 @@
-<h1 align="center">Opa, eu sou Rodrigo (ThorFilhodeOdin)</h1>
+<h1 align="center">ThorFilhodeOdin</h1>
 
 <p align="center">
 💼 Fundador de empresa de desenvolvimento de sistemas web e sites institucionais<br>
@@ -47,6 +47,8 @@
 
 ## 📫 Contato
 zap : 44 9 9976-4566
+Atualmente estou no terceiro ano de engenharia de software e trabalho como supervisor de ti.
+
 
 <p align="center">
   <a href="https://github.com/ThorFilhodeOdin">
