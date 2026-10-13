@@ -47,7 +47,7 @@
 
 ## 📫 Contato
 zap : 44 9 9976-4566
-Atualmente estou no terceiro ano de engenharia de software e trabalho como supervisor de ti.
+Atualmente estou no terceiro ano de engenharia de software e trabalho como encarregado de ti.
 
 
 <p align="center">
