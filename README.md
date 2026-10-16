@@ -1,7 +1,6 @@
 <h1 align="center">ThorFilhodeOdin</h1>
 
 <p align="center">
-💼 Fundador de empresa de desenvolvimento de sistemas web e sites institucionais<br>
 🧠 Desenvolvedor Fullstack (PHP • MVC • Web) <br>
 🚀 Focado em sistemas escaláveis e bem estruturados
 </p>
